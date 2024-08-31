@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pii",
-    "slug": "pii",
+    "name": "PockID",
+    "slug": "pockid",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
